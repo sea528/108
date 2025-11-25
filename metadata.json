@@ -1,0 +1,5 @@
+{
+  "name": "GLOW-M Sync",
+  "description": "A smart workout system connecting a wearable watch interface with a modular hexagonal wall tile (GLOW-M) featuring hidden display optics and edge lighting feedback.",
+  "requestFramePermissions": []
+}
